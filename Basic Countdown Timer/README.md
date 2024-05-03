@@ -6,3 +6,4 @@ At some point, I would like to update this project and possibly add in a feature
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
+It is possible to run this code if you wanted. You would just need an IDE that can handle Java like eclipse or IntelliJ IDEA. I will possibly update this repository with a exe file for the app after adding other features.
